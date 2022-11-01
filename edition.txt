@@ -3,4 +3,4 @@ second edition
 third edition
 issue resloved
 Hotfix team's solution
-test_2
+New function added
